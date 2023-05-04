@@ -1,0 +1,7 @@
+numpy
+openai
+openpyxl
+pandas
+pytz
+requests
+tqdm

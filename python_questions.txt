@@ -1,0 +1,292 @@
+1.     Python program to check if a string is palindrome or not
+
+2.     Reverse words in a given String in Python
+
+3.     Ways to remove i’th character from string in Python
+
+4.     Python | Check if a Substring is Present in a Given String
+
+5.     Find length of a string in python (4 ways)
+
+6.     Python program to print even length words in a string
+
+7.     Python | Program to accept the strings which contains all vowels
+
+8.     Python | Count the Number of matching characters in a pair of string
+
+9.     Python program to count number of vowels using sets in given string
+
+10. Remove all duplicates from a given string in Python
+
+11. Python | Program to check if a string contains any special character
+
+12. Generating random strings until a given string is generated
+
+13. Find words which are greater than given length k
+
+14. Python program for removing i-th character from a string
+
+15. Python program to split and join a string
+
+16. Python | Check if a given string is binary string or not
+
+17. Python | Find all close matches of input string from a list
+
+18. Python program to find uncommon words from two Strings
+
+19. Python | Swap commas and dots in a String
+
+20. Python | Permutation of a given string using inbuilt function
+
+21. Python | Check for URL in a String
+
+22. Execute a String of Code in Python
+
+23. String slicing in Python to rotate a string
+
+24. String slicing in Python to check if a string can become empty by recursive deletion
+
+25. Python Counter| Find all duplicate characters in string
+
+ 
+
+ 
+
+ 
+
+https://www.geeksforgeeks.org/python-programming-examples/ 
+
+
+Basic Programs:
+
+1.     Python program to add two numbers
+
+2.     Python Program for factorial of a number
+
+3.     Python Program for simple interest
+
+4.     Python Program for compound interest
+
+5.     Python Program to check Armstrong Number
+
+6.     Python Program for Program to find area of a circle
+
+7.     Python program to print all Prime numbers in an Interval
+
+8.     Python program to check whether a number is Prime or not
+
+9.     Python Program for n-th Fibonacci number
+
+10. Python Program for Fibonacci numbers
+
+11. Python Program for How to check if a given number is Fibonacci number?
+
+12. Python Program for n\’th multiple of a number in Fibonacci Series
+
+13. Program to print ASCII Value of a character
+
+14. Python Program for Sum of squares of first n natural numbers
+
+15. Python Program for cube sum of first n natural numbers
+
+Array Programs:
+
+1.     Python Program to find sum of array
+
+2.     Python Program to find largest element in an array
+
+3.     Python Program for array rotation
+
+4.     Python Program for Reversal algorithm for array rotation
+
+5.     Python Program to Split the array and add the first part to the end
+
+6.     Python Program for Find reminder of array multiplication divided by n
+
+7.     Reconstruct the array by replacing arr[i] with (arr[i-1]+1) % M
+
+8.     Python Program to check if given array is Monotonic
+
+List Programs:
+
+1.     Python program to interchange first and last elements in a list
+
+2.     Python program to swap two elements in a list
+
+3.     Python program to remove Nth occurrence of the given word
+
+4.     Python | Ways to find length of list
+
+5.     Python | Ways to check if element exists in list
+
+6.     Different ways to clear a list in Python
+
+7.     Python | Reversing a List
+
+8.     Python | Cloning or Copying a list
+
+9.     Python | Count occurrences of an element in a list
+
+10. Python program to find sum of elements in list
+
+11. Python | Multiply all numbers in the list
+
+12. Python program to find smallest number in a list
+
+13. Python program to find largest number in a list
+
+14. Python program to find second largest number in a list
+
+15. Python program to find N largest elements from a list
+
+16. Python program to print even numbers in a list
+
+17. Python program to print odd numbers in a List
+
+18. Python program to print all even numbers in a range
+
+19. Python program to print all odd numbers in a range
+
+20. Python program to count Even and Odd numbers in a List
+
+21. Python program to print positive numbers in a list
+
+22. Python program to print negative numbers in a list
+
+23. Python program to print all positive numbers in a range
+
+24. Python program to print all negative numbers in a range
+
+25. Python program to count positive and negative numbers in a list
+
+26. Remove multiple elements from a list in Python
+
+27. Python | Remove empty tuples from a list
+
+28. Python | Program to print duplicates from a list of integers
+
+29. Python program to find Cumulative sum of a list
+
+30. Break a list into chunks of size N in Python
+
+31. Python | Sort the values of first list using second list
+
+More >>
+
+More >>
+
+Dictionary Programs:
+
+1.     Python | Sort Python Dictionaries by Key or Value
+
+2.     Handling missing keys in Python dictionaries
+
+3.     Python dictionary with keys having multiple inputs
+
+4.     Python program to find the sum of all items in a dictionary
+
+5.     Python | Ways to remove a key from dictionary
+
+6.     Ways to sort list of dictionaries by values in Python – Using itemgetter
+
+7.     Ways to sort list of dictionaries by values in Python – Using lambda function
+
+8.     Python | Merging two Dictionaries
+
+9.     Program to create grade calculator in Python
+
+10. Python | Check order of character in string using OrderedDict( )
+
+11. Python | Find common elements in three sorted arrays by dictionary intersection
+
+12. Dictionary and counter in Python to find winner of election
+
+13. Find all duplicate characters in string
+
+14. Print anagrams together in Python using List and Dictionary
+
+15. K’th Non-repeating Character in Python using List Comprehension and OrderedDict
+
+16. Check if binary representations of two numbers are anagram
+
+17. Python Counter to find the size of largest subset of anagram words
+
+18. Python | Remove all duplicates words from a given sentence
+
+19. Python Dictionary to find mirror characters in a string
+
+20. Counting the frequencies in a list using dictionary in Python
+
+21. Python | Convert a list of Tuples into Dictionary
+
+22. Python counter and dictionary intersection example (Make a string using deletion and rearrangement)
+
+23. Python dictionary, set and counter to check if frequencies can become same
+
+24. Scraping And Finding Ordered Words In A Dictionary using Python
+
+25. Possible Words using given characters in Python
+
+More >>
+
+Tuple Programs:
+
+1.     Create a list of tuples from given list having number and its cube in each tuple
+
+2.     Sort a list of tuples by second Item
+
+More >>
+
+Searching and Sorting Programs:
+
+1.     Python Program for Binary Search (Recursive and Iterative)
+
+2.     Python Program for Linear Search
+
+3.     Python Program for Insertion Sort
+
+4.     Python Program for Recursive Insertion Sort
+
+5.     Python Program for QuickSort
+
+6.     Python Program for Iterative Quick Sort
+
+7.     Python Program for Selection Sort
+
+8.     Python Program for Bubble Sort
+
+9.     Python Program for Merge Sort
+
+10. Python Program for Iterative Merge Sort
+
+11. Python Program for Heap Sort
+
+12. Python Program for Counting Sort
+
+13. Python Program for ShellSort
+
+14. Python Program for Topological Sorting
+
+15. Python Program for Radix Sort
+
+16. Python Program for Binary Insertion Sort
+
+17. Python Program for Bitonic Sort
+
+18. Python Program for Comb Sort
+
+19. Python Program for Pigeonhole Sort
+
+20. Python Program for Cocktail Sort
+
+21. Python Program for Gnome Sort
+
+22. Python Program for Odd-Even Sort / Brick Sort
+
+23. Python Program for BogoSort or Permutation Sort
+
+24. Python Program for Cycle Sort
+
+25.   Python Program for Stooge Sort
+
+ 
